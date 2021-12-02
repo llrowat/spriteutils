@@ -1,4 +1,3 @@
-// Package spriteutils provides some utility functions for dealing with 2D sprites on top of the ebiten game library
 package spriteutils
 
 import (
