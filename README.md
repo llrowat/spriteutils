@@ -15,6 +15,9 @@ To install the library, you must have Go 1.17 installed.  From the project that 
 
 ```go get github.com/llrowat/spriteutils```
 
+## Documentation
+https://pkg.go.dev/github.com/llrowat/spriteutils
+
 ## Usage Examples
 
 ### Sprite
