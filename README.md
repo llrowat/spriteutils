@@ -8,7 +8,7 @@ Some simple utilities for working with 2D sprites ontop of the [Ebiten](https://
 - Easily create sprites that exist on screen for a short period of time
 - A factory that can create sprites in random locations within its set constaints
 
-I created this library for use in [github.com/llrowat/galactic-asteroid-belt](https://github.com/llrowat/galactic-asteroid-belt) which was a simple game project I worked on to teach myself Go.  If anyone else gets some usefulness from it, cool!  
+I created this module for use in [github.com/llrowat/galactic-asteroid-belt](https://github.com/llrowat/galactic-asteroid-belt) which was a simple game project I worked on to teach myself Go.  If anyone else gets some usefulness from it, cool!  
 
 ## Installing
 To install the library, you must have Go 1.17 installed.  From the project that will use this library just run:
